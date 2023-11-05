@@ -43,4 +43,4 @@ while True:
         elif user_input == "divide":
             print("Result:", divide(num1, num2))
     else:
-        print("Invalid input")
+       
