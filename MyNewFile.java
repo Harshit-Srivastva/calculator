@@ -8,7 +8,7 @@ public class SimpleCalculator {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Simple Calculator");
-       
+        System.out.print("Enter operator (+, -, *, /): ");
         operator = input.next().charAt(0);
 
         System.out.print("Enter two numbers: ");
