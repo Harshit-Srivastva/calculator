@@ -1,5 +1,5 @@
 # calculator
-This is a simple project of making a calculator in c++
+This is a simple project of making a calculator
 <br>
 Authow - Harshit Srivastava
 <br>
