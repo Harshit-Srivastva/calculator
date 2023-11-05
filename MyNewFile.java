@@ -30,18 +30,4 @@ public class SimpleCalculator {
                 result = num1 * num2;
                 System.out.println(num1 + " * " + num2 + " = " + result);
                 break;
-            case '/':
-                if (num2 != 0) {
-                    result = num1 / num2;
-                    System.out.println(num1 + " / " + num2 + " = " + result);
-                } else {
-                    System.out.println("Error: Division by zero");
-                }
-                break;
-            default:
-                System.out.println("Error: Invalid operator");
-        }
 
-        input.close();
-    }
-}
